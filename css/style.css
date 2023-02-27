@@ -1,0 +1,122 @@
+@import url("https://fonts.googleapis.com/css2?family=Passions+Conflict&display=swap");
+.container {
+  max-width: 0 auto;
+}
+h1 {
+  font-family: var(--main-family);
+  padding-top: 40px;
+  font-size: 80px;
+  margin: 0;
+  line-height: 84px;
+}
+.wrapper__left img {
+  margin-top: 49px;
+  width: 500px;
+  height: 500px;
+}
+.wrapper {
+  display: flex;
+}
+.wrapper__right p {
+  font-size: larger;
+  font-weight: 500;
+  margin-top: 400px;
+  margin-left: 25px;
+}
+.wrapper__right a {
+  display: inline-block;
+  background: #8c959d;
+  color: #fff;
+  padding: 1rem 1.5rem;
+  text-decoration: none;
+  border-radius: 3px;
+  margin-left: 25px;
+}
+.services {
+  margin-top: 84px;
+}
+.services h2 {
+  display: flex;
+  justify-content: center;
+  font-family: var(--font-family);
+}
+.myself {
+  background-color: beige;
+}
+.contactme {
+  margin-top: 89px;
+}
+.contactme img {
+  width: 64px;
+  height: 64px;
+}
+.contactme span {
+  font-size: larger;
+  font-weight: 500;
+}
+.skills {
+  display: flex;
+  margin-left: 650px;
+  margin-top: 19px;
+}
+.skills button {
+  display: flex;
+}
+.football {
+  border: none;
+  width: 375px;
+  height: 10px;
+  background-color: aquamarine;
+}
+.programming {
+  border: none;
+  width: 300px;
+  height: 10px;
+  color: bisque;
+  margin-top: 25px;
+}
+.basketball {
+  border: none;
+  width: 400px;
+  height: 10px;
+  background-color: rgb(206, 228, 247);
+  margin-top: 25px;
+}
+.photoshop {
+  border: none;
+  width: 250px;
+  height: 10px;
+  background-color: lightblue;
+  margin-top: 25px;
+}
+.teamwork {
+  border: none;
+  width: 330px;
+  height: 10px;
+  background-color: darkseagreen;
+  margin-top: 25px;
+}
+.text {
+  font-size: x-large;
+  font-weight: 700;
+}
+.information {
+  display: flex;
+  margin-left: 1110px;
+}
+.hero h2 {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+.portfolio {
+  display: flex;
+  display: inline-block;
+  background: #e0e7ee;
+  color: black;
+  padding: 1rem 1.5rem;
+  text-decoration: none;
+  border-radius: 3px;
+  margin-left: 400px;
+  margin-top: 50px;
+}
